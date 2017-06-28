@@ -1,3 +1,8 @@
 # Demo1
-demo demo
-demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo demo 
+
+Step 1:  Make a thing
+
+Step 2:  ...
+
+Step 3:  Profit!
+
